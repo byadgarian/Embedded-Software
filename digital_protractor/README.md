@@ -1,4 +1,4 @@
-.# Digital Protractor
+# Digital Protractor
 
 **Date Finished:** 2011
 
