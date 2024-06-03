@@ -1,4 +1,4 @@
-.# DTMF Industrial Controller
+# DTMF Industrial Controller
 
 **Date Finished:** 2013
 
